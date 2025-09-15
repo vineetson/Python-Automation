@@ -61,13 +61,13 @@ Open a Pull Request 🎉
 
 ### 📌 Planned Automations
 Here are some upcoming automation scripts planned for this repo:
-☁️ Cloud Cleanup — automatically remove unused cloud resources to save cost
-📊 Cloud Cost Optimization — track and optimize cloud spending
-🔄 Log Rotation & Archival — automate system/application log handling
-⚡ CI/CD Pipeline Triggers — automate deployments with GitHub/GitLab/Bitbucket
-🔐 Security Checks — automate basic infra security scans
-🧹 Resource Health Monitoring — simple monitoring & alerting scripts
-✨ More ideas are welcome! Feel free to open an Issue and suggest new automations.
+- ☁️ Cloud Cleanup — automatically remove unused cloud resources to save cost
+- 📊 Cloud Cost Optimization — track and optimize cloud spending
+- 🔄 Log Rotation & Archival — automate system/application log handling
+- ⚡ CI/CD Pipeline Triggers — automate deployments with GitHub/GitLab/Bitbucket
+- 🔐 Security Checks — automate basic infra security scans
+- 🧹 Resource Health Monitoring — simple monitoring & alerting scripts
+- ✨ More ideas are welcome! Feel free to open an Issue and suggest new automations.
 
 ### 🌍 About
 💻 Built with Python to make life easier — one automation at a time.
