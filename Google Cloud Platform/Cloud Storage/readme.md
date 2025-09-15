@@ -1,6 +1,6 @@
 ## Requirement:
 
-google-cloud-storage
+pip install google-cloud-storage
 
 ## How the Script Works:
 
