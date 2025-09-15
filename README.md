@@ -17,10 +17,13 @@
 ---
 
 ## 📂 Repository Structure  
-automation-hub/
+
 ├── cloud/ # Cloud automation scripts
+
 ├── devops/ # DevOps & CI/CD automation
+
 ├── workflows/ # General workflow automation
+
 └── README.md
 
 ---
