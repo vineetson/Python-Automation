@@ -2,14 +2,11 @@
 🛠️ Python-powered automation for Software 💻, Cloud ☁️, DevOps 🔧, and workflow optimization ⚡ — solving real-life problems by making complex tasks simple, scalable, and efficient.
 
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
-![Cloud](https://img.shields.io/badge/Cloud-Automation-4285F4?logo=googlecloud&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-Automation-2496ED?logo=docker&logoColor=white)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=github)  
-![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative) 
+
 
 ---
-#[Work in progress README]
+# [Work in progress README File]
+
 ## ✨ Features  
 - 🔹 Automate repetitive workflows  
 - 🔹 Cloud automation (GCP, AWS, etc.)  
@@ -71,3 +68,9 @@ Here are some upcoming automation scripts planned for this repo:
 ### 🌍 About
 💻 Built with Python to make life easier — one automation at a time.
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
+![Cloud](https://img.shields.io/badge/Cloud-Automation-4285F4?logo=googlecloud&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-Automation-2496ED?logo=docker&logoColor=white)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=github)  
+![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative) 
