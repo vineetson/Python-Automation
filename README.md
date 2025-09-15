@@ -33,22 +33,21 @@
 ## 🚀 Getting Started  
 
 ### Step 1️⃣: Clone the Repository  
-[git clone https://github.com/your-username/automation-hub.git](https://github.com/vineetson/Python-Automation.git)
-
-cd [placeholder]
+- [git clone https://github.com/your-username/automation-hub.git](https://github.com/vineetson/Python-Automation.git)
+- cd [placeholder]
 
 ### Step 2️⃣: Setup Virtual Environment
-python3 -m venv venv
+- python3 -m venv venv
 
 Activate it:
 1. Linux / macOS: source venv/bin/activate
 2. Windows: venv\Scripts\activate
 
 ### Step 3️⃣: Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### Step 4️⃣: Run an Automation Script
-python script_name.py
+- python script_name.py
 
 
 ### 🤝 Contributing
