@@ -33,8 +33,8 @@
 ## 🚀 Getting Started  
 
 ### Step 1️⃣: Clone the Repository  
-git clone https://github.com/your-username/automation-hub.git
-cd automation-hub
+[git clone https://github.com/your-username/automation-hub.git](https://github.com/vineetson/Python-Automation.git)
+cd [placeholder]
 
 ### Step 2️⃣: Setup Virtual Environment
 python3 -m venv venv
