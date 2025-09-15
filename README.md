@@ -35,11 +35,8 @@ cd automation-hub
 python3 -m venv venv
 
 Activate it:
-1. Linux / macOS
-source venv/bin/activate
-
-2. Windows
-venv\Scripts\activate
+1. Linux / macOS: source venv/bin/activate
+2. Windows: venv\Scripts\activate
 
 ### Step 3️⃣: Install Dependencies
 pip install -r requirements.txt
