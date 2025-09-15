@@ -53,11 +53,11 @@ python script_name.py
 
 ### 🤝 Contributing
 Contributions are welcome! 🚀
-Fork the repo
-Create a new branch (git checkout -b feature-name)
-Commit your changes (git commit -m 'Add new automation script')
-Push to your branch (git push origin feature-name)
-Open a Pull Request 🎉
+- Fork the repo
+- Create a new branch (git checkout -b feature-name)
+- Commit your changes (git commit -m 'Add new automation script')
+- Push to your branch (git push origin feature-name)
+- Open a Pull Request 🎉
 
 ### 📌 Planned Automations
 Here are some upcoming automation scripts planned for this repo:
