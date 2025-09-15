@@ -21,7 +21,6 @@ This Python script is a modern and robust solution for automating file managemen
    ```
 
 3. **Activate the environment** :
-   **Bash**
 
 ```
    # On macOS/Linux
@@ -31,7 +30,6 @@ This Python script is a modern and robust solution for automating file managemen
 ```
 
 1. **Install the necessary library** :
-   **Bash**
 
 ```
    pip install google-cloud-storage
